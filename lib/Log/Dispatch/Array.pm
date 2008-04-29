@@ -10,11 +10,11 @@ Log::Dispatch::Array - log events to an array (reference)
 
 =head1 VERSION
 
-version 1.000
+version 1.001
 
 =cut
 
-our $VERSION = '1.000';
+our $VERSION = '1.001';
 
 =head1 SYNOPSIS
 
