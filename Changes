@@ -2,6 +2,9 @@ Revision history for Log-Dispatch-Array
 
 {{$NEXT}}
 
+1.003     2013-12-25 22:38:11-0500 America/New_York
+          fix github links
+
 1.002     2013-07-07 08:07:29 America/New_York
           repackage, update bugtracker
 
