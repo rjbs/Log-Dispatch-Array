@@ -1,6 +1,9 @@
 Revision history for Log-Dispatch-Array
 
 {{$NEXT}}
+        - v1.004 was a little broken, so now this time *really*:
+        - set a policy for what perls to expect will work
+        - as of now, v5.12 is the minimum required perl
 
 1.004     2022-12-29 19:35:00-05:00 America/New_York
         - update packaging
